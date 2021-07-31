@@ -21,3 +21,7 @@ git commit -m "Comentario para diferenciar la subida del archivo"
 git branch -M main
 git push -u origin main
 
+
+----------------------------
+Esto haciendo una nueva configuración
+
